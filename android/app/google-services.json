@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471381725504",
+    "project_id": "flutter-signing-login",
+    "storage_bucket": "flutter-signing-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471381725504:android:35fa47533f8a6067baaaa5",
+        "android_client_info": {
+          "package_name": "com.barahonaaltair.login_deber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471381725504-9499bgrktqd8dhebu3h0glcbk7c5lpg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barahonaaltair.login_deber",
+            "certificate_hash": "068737c795c77fefdd28b5ce20fcb6e7d66bcdee"
+          }
+        },
+        {
+          "client_id": "471381725504-u0rts6j1onngftfniv57ha85kp6o2m02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xTsCpL7rWXVdMMxWgBXojgboQUJxGOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471381725504-u0rts6j1onngftfniv57ha85kp6o2m02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
